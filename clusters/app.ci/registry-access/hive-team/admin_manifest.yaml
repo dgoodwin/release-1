@@ -42,6 +42,7 @@ users:
   - 2uasimojo
   - abutcher
   - joelddiaz
+  - abhinavdahiya
 ---
 # this adds the admins to the project.
 kind: RoleBinding
